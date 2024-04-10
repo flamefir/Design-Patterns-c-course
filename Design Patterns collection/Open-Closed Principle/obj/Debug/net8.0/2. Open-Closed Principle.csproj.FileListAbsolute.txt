@@ -1,0 +1,15 @@
+C:\Users\mfl\source\repos\Design-Patterns-c-course\Design Patterns collection\Open-Closed Principle\bin\Debug\net8.0\2. Open-Closed Principle.exe
+C:\Users\mfl\source\repos\Design-Patterns-c-course\Design Patterns collection\Open-Closed Principle\bin\Debug\net8.0\2. Open-Closed Principle.deps.json
+C:\Users\mfl\source\repos\Design-Patterns-c-course\Design Patterns collection\Open-Closed Principle\bin\Debug\net8.0\2. Open-Closed Principle.runtimeconfig.json
+C:\Users\mfl\source\repos\Design-Patterns-c-course\Design Patterns collection\Open-Closed Principle\bin\Debug\net8.0\2. Open-Closed Principle.dll
+C:\Users\mfl\source\repos\Design-Patterns-c-course\Design Patterns collection\Open-Closed Principle\bin\Debug\net8.0\2. Open-Closed Principle.pdb
+C:\Users\mfl\source\repos\Design-Patterns-c-course\Design Patterns collection\Open-Closed Principle\obj\Debug\net8.0\2. Open-Closed Principle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mfl\source\repos\Design-Patterns-c-course\Design Patterns collection\Open-Closed Principle\obj\Debug\net8.0\2. Open-Closed Principle.AssemblyInfoInputs.cache
+C:\Users\mfl\source\repos\Design-Patterns-c-course\Design Patterns collection\Open-Closed Principle\obj\Debug\net8.0\2. Open-Closed Principle.AssemblyInfo.cs
+C:\Users\mfl\source\repos\Design-Patterns-c-course\Design Patterns collection\Open-Closed Principle\obj\Debug\net8.0\2. Open-Closed Principle.csproj.CoreCompileInputs.cache
+C:\Users\mfl\source\repos\Design-Patterns-c-course\Design Patterns collection\Open-Closed Principle\obj\Debug\net8.0\2. Open-Closed Principle.sourcelink.json
+C:\Users\mfl\source\repos\Design-Patterns-c-course\Design Patterns collection\Open-Closed Principle\obj\Debug\net8.0\2. Open-Closed Principle.dll
+C:\Users\mfl\source\repos\Design-Patterns-c-course\Design Patterns collection\Open-Closed Principle\obj\Debug\net8.0\refint\2. Open-Closed Principle.dll
+C:\Users\mfl\source\repos\Design-Patterns-c-course\Design Patterns collection\Open-Closed Principle\obj\Debug\net8.0\2. Open-Closed Principle.pdb
+C:\Users\mfl\source\repos\Design-Patterns-c-course\Design Patterns collection\Open-Closed Principle\obj\Debug\net8.0\2. Open-Closed Principle.genruntimeconfig.cache
+C:\Users\mfl\source\repos\Design-Patterns-c-course\Design Patterns collection\Open-Closed Principle\obj\Debug\net8.0\ref\2. Open-Closed Principle.dll

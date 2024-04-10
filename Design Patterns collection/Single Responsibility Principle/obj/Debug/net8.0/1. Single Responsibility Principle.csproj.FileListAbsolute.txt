@@ -1,0 +1,15 @@
+C:\Users\mfl\source\repos\Design-Patterns-c-course\Design Patterns collection\Single Responsibility Principle\bin\Debug\net8.0\1. Single Responsibility Principle.exe
+C:\Users\mfl\source\repos\Design-Patterns-c-course\Design Patterns collection\Single Responsibility Principle\bin\Debug\net8.0\1. Single Responsibility Principle.deps.json
+C:\Users\mfl\source\repos\Design-Patterns-c-course\Design Patterns collection\Single Responsibility Principle\bin\Debug\net8.0\1. Single Responsibility Principle.runtimeconfig.json
+C:\Users\mfl\source\repos\Design-Patterns-c-course\Design Patterns collection\Single Responsibility Principle\bin\Debug\net8.0\1. Single Responsibility Principle.dll
+C:\Users\mfl\source\repos\Design-Patterns-c-course\Design Patterns collection\Single Responsibility Principle\bin\Debug\net8.0\1. Single Responsibility Principle.pdb
+C:\Users\mfl\source\repos\Design-Patterns-c-course\Design Patterns collection\Single Responsibility Principle\obj\Debug\net8.0\1. Single Responsibility Principle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mfl\source\repos\Design-Patterns-c-course\Design Patterns collection\Single Responsibility Principle\obj\Debug\net8.0\1. Single Responsibility Principle.AssemblyInfoInputs.cache
+C:\Users\mfl\source\repos\Design-Patterns-c-course\Design Patterns collection\Single Responsibility Principle\obj\Debug\net8.0\1. Single Responsibility Principle.AssemblyInfo.cs
+C:\Users\mfl\source\repos\Design-Patterns-c-course\Design Patterns collection\Single Responsibility Principle\obj\Debug\net8.0\1. Single Responsibility Principle.csproj.CoreCompileInputs.cache
+C:\Users\mfl\source\repos\Design-Patterns-c-course\Design Patterns collection\Single Responsibility Principle\obj\Debug\net8.0\1. Single Responsibility Principle.sourcelink.json
+C:\Users\mfl\source\repos\Design-Patterns-c-course\Design Patterns collection\Single Responsibility Principle\obj\Debug\net8.0\1. Single Responsibility Principle.dll
+C:\Users\mfl\source\repos\Design-Patterns-c-course\Design Patterns collection\Single Responsibility Principle\obj\Debug\net8.0\refint\1. Single Responsibility Principle.dll
+C:\Users\mfl\source\repos\Design-Patterns-c-course\Design Patterns collection\Single Responsibility Principle\obj\Debug\net8.0\1. Single Responsibility Principle.pdb
+C:\Users\mfl\source\repos\Design-Patterns-c-course\Design Patterns collection\Single Responsibility Principle\obj\Debug\net8.0\1. Single Responsibility Principle.genruntimeconfig.cache
+C:\Users\mfl\source\repos\Design-Patterns-c-course\Design Patterns collection\Single Responsibility Principle\obj\Debug\net8.0\ref\1. Single Responsibility Principle.dll
