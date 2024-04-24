@@ -1,0 +1,15 @@
+C:\Users\mfl\source\repos\Design-Patterns-c-course\Design Patterns collection\Command pattern\bin\Debug\net8.0\Command pattern.exe
+C:\Users\mfl\source\repos\Design-Patterns-c-course\Design Patterns collection\Command pattern\bin\Debug\net8.0\Command pattern.deps.json
+C:\Users\mfl\source\repos\Design-Patterns-c-course\Design Patterns collection\Command pattern\bin\Debug\net8.0\Command pattern.runtimeconfig.json
+C:\Users\mfl\source\repos\Design-Patterns-c-course\Design Patterns collection\Command pattern\bin\Debug\net8.0\Command pattern.dll
+C:\Users\mfl\source\repos\Design-Patterns-c-course\Design Patterns collection\Command pattern\bin\Debug\net8.0\Command pattern.pdb
+C:\Users\mfl\source\repos\Design-Patterns-c-course\Design Patterns collection\Command pattern\obj\Debug\net8.0\Command pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mfl\source\repos\Design-Patterns-c-course\Design Patterns collection\Command pattern\obj\Debug\net8.0\Command pattern.AssemblyInfoInputs.cache
+C:\Users\mfl\source\repos\Design-Patterns-c-course\Design Patterns collection\Command pattern\obj\Debug\net8.0\Command pattern.AssemblyInfo.cs
+C:\Users\mfl\source\repos\Design-Patterns-c-course\Design Patterns collection\Command pattern\obj\Debug\net8.0\Command pattern.csproj.CoreCompileInputs.cache
+C:\Users\mfl\source\repos\Design-Patterns-c-course\Design Patterns collection\Command pattern\obj\Debug\net8.0\Command pattern.sourcelink.json
+C:\Users\mfl\source\repos\Design-Patterns-c-course\Design Patterns collection\Command pattern\obj\Debug\net8.0\Command pattern.dll
+C:\Users\mfl\source\repos\Design-Patterns-c-course\Design Patterns collection\Command pattern\obj\Debug\net8.0\refint\Command pattern.dll
+C:\Users\mfl\source\repos\Design-Patterns-c-course\Design Patterns collection\Command pattern\obj\Debug\net8.0\Command pattern.pdb
+C:\Users\mfl\source\repos\Design-Patterns-c-course\Design Patterns collection\Command pattern\obj\Debug\net8.0\Command pattern.genruntimeconfig.cache
+C:\Users\mfl\source\repos\Design-Patterns-c-course\Design Patterns collection\Command pattern\obj\Debug\net8.0\ref\Command pattern.dll

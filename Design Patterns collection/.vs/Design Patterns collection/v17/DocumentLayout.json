@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\mfl\\source\\repos\\Design-Patterns-c-course\\Design Patterns collection\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7284AD0D-025D-44D9-BFC4-F99B5FCC35B2}|Single Responsibility Principle\\Single Responsibility Principle.csproj|c:\\users\\mfl\\source\\repos\\design-patterns-c-course\\design patterns collection\\single responsibility principle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7284AD0D-025D-44D9-BFC4-F99B5FCC35B2}|Single Responsibility Principle\\Single Responsibility Principle.csproj|solutionrelative:single responsibility principle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0472F88A-A7E4-41FF-B9EE-35B209F0C299}|Command pattern\\Command pattern.csproj|c:\\users\\mfl\\source\\repos\\design-patterns-c-course\\design patterns collection\\command pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0472F88A-A7E4-41FF-B9EE-35B209F0C299}|Command pattern\\Command pattern.csproj|solutionrelative:command pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D568A0EE-BCEB-4A93-986D-43AA0ED573CE}|Open-Closed Principle\\Open-Closed Principle.csproj|c:\\users\\mfl\\source\\repos\\design-patterns-c-course\\design patterns collection\\open-closed principle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D568A0EE-BCEB-4A93-986D-43AA0ED573CE}|Open-Closed Principle\\Open-Closed Principle.csproj|solutionrelative:open-closed principle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0472F88A-A7E4-41FF-B9EE-35B209F0C299}|Command pattern\\Command pattern.csproj|c:\\users\\mfl\\source\\repos\\design-patterns-c-course\\design patterns collection\\command pattern\\exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0472F88A-A7E4-41FF-B9EE-35B209F0C299}|Command pattern\\Command pattern.csproj|solutionrelative:command pattern\\exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mfl\\source\\repos\\Design-Patterns-c-course\\Design Patterns collection\\Open-Closed Principle\\Program.cs",
-              "RelativeDocumentMoniker": "Open-Closed Principle\\Program.cs",
-              "ToolTip": "C:\\Users\\mfl\\source\\repos\\Design-Patterns-c-course\\Design Patterns collection\\Open-Closed Principle\\Program.cs",
-              "RelativeToolTip": "Open-Closed Principle\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T08:27:21.692Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mfl\\source\\repos\\Design-Patterns-c-course\\Design Patterns collection\\Single Responsibility Principle\\Program.cs",
-              "RelativeDocumentMoniker": "Single Responsibility Principle\\Program.cs",
-              "ToolTip": "C:\\Users\\mfl\\source\\repos\\Design-Patterns-c-course\\Design Patterns collection\\Single Responsibility Principle\\Program.cs",
-              "RelativeToolTip": "Single Responsibility Principle\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\mfl\\source\\repos\\Design-Patterns-c-course\\Design Patterns collection\\Command pattern\\Program.cs",
+              "RelativeDocumentMoniker": "Command pattern\\Program.cs",
+              "ToolTip": "C:\\Users\\mfl\\source\\repos\\Design-Patterns-c-course\\Design Patterns collection\\Command pattern\\Program.cs",
+              "RelativeToolTip": "Command pattern\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T08:23:00.237Z",
+              "WhenOpened": "2024-04-22T17:09:59.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exercise.cs",
+              "DocumentMoniker": "C:\\Users\\mfl\\source\\repos\\Design-Patterns-c-course\\Design Patterns collection\\Command pattern\\Exercise.cs",
+              "RelativeDocumentMoniker": "Command pattern\\Exercise.cs",
+              "ToolTip": "C:\\Users\\mfl\\source\\repos\\Design-Patterns-c-course\\Design Patterns collection\\Command pattern\\Exercise.cs",
+              "RelativeToolTip": "Command pattern\\Exercise.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T17:08:42.759Z",
               "EditorCaption": ""
             }
           ]

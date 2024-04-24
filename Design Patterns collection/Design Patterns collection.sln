@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Single Responsibility Principle", "Single Responsibility Principle\1. Single Responsibility Principle.csproj", "{7284AD0D-025D-44D9-BFC4-F99B5FCC35B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Single Responsibility Principle", "Single Responsibility Principle\1. Single Responsibility Principle.csproj", "{7284AD0D-025D-44D9-BFC4-F99B5FCC35B2}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Section 1 - The SOLID Design Principles", "Section 1 - The SOLID Design Principles", "{A4E030CF-DA61-42C1-BDD6-B8ECDFCCB890}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Open-Closed Principle", "Open-Closed Principle\2. Open-Closed Principle.csproj", "{D568A0EE-BCEB-4A93-986D-43AA0ED573CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Open-Closed Principle", "Open-Closed Principle\2. Open-Closed Principle.csproj", "{D568A0EE-BCEB-4A93-986D-43AA0ED573CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Command pattern", "Command pattern\Command pattern.csproj", "{0472F88A-A7E4-41FF-B9EE-35B209F0C299}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,6 +25,10 @@ Global
 		{D568A0EE-BCEB-4A93-986D-43AA0ED573CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D568A0EE-BCEB-4A93-986D-43AA0ED573CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D568A0EE-BCEB-4A93-986D-43AA0ED573CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0472F88A-A7E4-41FF-B9EE-35B209F0C299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0472F88A-A7E4-41FF-B9EE-35B209F0C299}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0472F88A-A7E4-41FF-B9EE-35B209F0C299}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0472F88A-A7E4-41FF-B9EE-35B209F0C299}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -30,6 +36,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{7284AD0D-025D-44D9-BFC4-F99B5FCC35B2} = {A4E030CF-DA61-42C1-BDD6-B8ECDFCCB890}
 		{D568A0EE-BCEB-4A93-986D-43AA0ED573CE} = {A4E030CF-DA61-42C1-BDD6-B8ECDFCCB890}
+		{0472F88A-A7E4-41FF-B9EE-35B209F0C299} = {A4E030CF-DA61-42C1-BDD6-B8ECDFCCB890}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DC69F2AE-E780-4443-894A-3074B31EF5EF}
