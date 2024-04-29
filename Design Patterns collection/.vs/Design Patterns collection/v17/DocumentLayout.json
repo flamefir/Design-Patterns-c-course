@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{0472F88A-A7E4-41FF-B9EE-35B209F0C299}|Command pattern\\Command pattern.csproj|solutionrelative:command pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0472F88A-A7E4-41FF-B9EE-35B209F0C299}|Command pattern\\Command pattern.csproj|c:\\users\\mfl\\source\\repos\\design-patterns-c-course\\design patterns collection\\command pattern\\exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0472F88A-A7E4-41FF-B9EE-35B209F0C299}|Command pattern\\Command pattern.csproj|C:\\Users\\mfl\\source\\repos\\Design-Patterns-c-course\\Design Patterns collection\\command pattern\\exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0472F88A-A7E4-41FF-B9EE-35B209F0C299}|Command pattern\\Command pattern.csproj|solutionrelative:command pattern\\exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "Command pattern\\Program.cs",
               "ToolTip": "C:\\Users\\mfl\\source\\repos\\Design-Patterns-c-course\\Design Patterns collection\\Command pattern\\Program.cs",
               "RelativeToolTip": "Command pattern\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAACAAAA",
+              "ViewState": "AQIAAKIAAAAAAAAAAAAcwK4AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-22T17:09:59.173Z",
               "EditorCaption": ""
@@ -43,8 +43,7 @@
               "RelativeToolTip": "Command pattern\\Exercise.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T17:08:42.759Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-22T17:08:42.759Z"
             }
           ]
         }

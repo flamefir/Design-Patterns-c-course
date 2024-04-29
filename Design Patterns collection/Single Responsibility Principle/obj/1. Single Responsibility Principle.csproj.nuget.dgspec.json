@@ -23,7 +23,8 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {},
-          "https://nuget-internal/nuget": {}
+          "https://nuget-internal/nuget": {},
+          "https://nugetserver-bp.powogaz.com.pl/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
